@@ -582,7 +582,7 @@
                 <li>Dolorum esse odio quas architecto sint</li>
               </ul>
               <p class="text-center">
-                <a href="project inquiry.php" class="btn btn-secondary">Click Here</a>
+                <a href="project_inquiry.php" class="btn btn-secondary">Click Here</a>
               </p>
             </div>
           </div>

@@ -2050,8 +2050,6 @@ figure figcaption {
 
 .box {
   transition: box-shadow .3s;
-  margin: 50px;
-  border-radius:10px;
   border: 1px solid #ccc;
   background: #fff;
   float: left;
@@ -2059,6 +2057,13 @@ figure figcaption {
 }
 .box:hover {
   box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+
+.modal-dialog {
+  height: 90%; /* = 90% of the .modal-backdrop block = %90 of the screen */
+}
+.modal-content {
+  height: 100%; /* = 100% of the .modal-dialog block */
 }
 
 
