@@ -1,6 +1,5 @@
 <?php include 'header.php'?>
 
-
 <div style="height: 5em; background-color: black;"></div>
 <div class="container mt-5">
 <!-- Card deck -->
@@ -14,7 +13,7 @@
     </div>
       <div class="card-body box">
         <h4>Bomb detactor with Gps controller</h4>
-        <h6>To absorb technology and production of OPX-Revilator- an Optronics Explosive Detector <span class="text-primary" data-toggle="modal" data-target=".bd-example-modal-lg">more...</span></h6>
+        <h6>To absorb technology and production of OPX-Revilator- an Optronics Explosive Detector <br><span class=" mt-2 text-primary" data-toggle="modal" data-target=".bd-example-modal-lg">Read more</span></h6>
         <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
           <div class="modal-dialog modal-lg">
             <div class="modal-content">
